@@ -1,0 +1,6 @@
+.layout {
+    display: flex;
+    flex-flow: row-reverse wrap;
+    justify-content: flex-start;
+    align-items: stretch
+}
